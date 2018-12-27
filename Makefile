@@ -4,7 +4,6 @@ TAG="\n\n\033[0;32m\#\#\# "
 END=" \#\#\# \033[0m\n"
 
 HOST=0.0.0.0
-HOST=localhost
 PORT=8080
 PROJECT_NAME=amazon
 PYTHONPATH=$(PROJECT_NAME)
